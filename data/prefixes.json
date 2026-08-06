@@ -1,0 +1,1094 @@
+[
+  {
+    "id": 1,
+    "name": "Large",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1.12,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Massive",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1.18,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dangerous",
+    "modifiers": {
+      "damage": 1.05,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1.05,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 2
+    }
+  },
+  {
+    "id": 4,
+    "name": "Savage",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1.1,
+      "speed": 1,
+      "size": 1.1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sharp",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pointy",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Tiny",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 0.82,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Terrible",
+    "modifiers": {
+      "damage": 0.85,
+      "knockback": 0.85,
+      "speed": 1,
+      "size": 0.87,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 9,
+    "name": "Small",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 0.9,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dull",
+    "modifiers": {
+      "damage": 0.85,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 11,
+    "name": "Unhappy",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 0.9,
+      "speed": 1.1,
+      "size": 0.9,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 12,
+    "name": "Bulky",
+    "modifiers": {
+      "damage": 1.05,
+      "knockback": 1.1,
+      "speed": 1.15,
+      "size": 1.1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 13,
+    "name": "Shameful",
+    "modifiers": {
+      "damage": 0.9,
+      "knockback": 0.8,
+      "speed": 1,
+      "size": 1.1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 14,
+    "name": "Heavy",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1.15,
+      "speed": 1.1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 15,
+    "name": "Light",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 0.9,
+      "speed": 0.85,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sighted",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 3
+    }
+  },
+  {
+    "id": 17,
+    "name": "Rapid",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 0.85,
+      "size": 1,
+      "shootSpeed": 1.1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 18,
+    "name": "Hasty",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1.15,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 19,
+    "name": "Intimidating",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1.05,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 20,
+    "name": "Deadly",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1.05,
+      "speed": 0.95,
+      "size": 1,
+      "shootSpeed": 1.05,
+      "manaCost": 1,
+      "crit": 2
+    }
+  },
+  {
+    "id": 21,
+    "name": "Staunch",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 22,
+    "name": "Awful",
+    "modifiers": {
+      "damage": 0.85,
+      "knockback": 0.9,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 0.9,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 23,
+    "name": "Lethargic",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1.15,
+      "size": 1,
+      "shootSpeed": 0.9,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 24,
+    "name": "Awkward",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 0.8,
+      "speed": 1.1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 25,
+    "name": "Powerful",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1,
+      "speed": 1.1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 1
+    }
+  },
+  {
+    "id": 26,
+    "name": "Mystic",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.85,
+      "crit": 0
+    }
+  },
+  {
+    "id": 27,
+    "name": "Adept",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.85,
+      "crit": 0
+    }
+  },
+  {
+    "id": 28,
+    "name": "Masterful",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.05,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.85,
+      "crit": 0
+    }
+  },
+  {
+    "id": 29,
+    "name": "Inept",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1.1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ignorant",
+    "modifiers": {
+      "damage": 0.9,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1.2,
+      "crit": 0
+    }
+  },
+  {
+    "id": 31,
+    "name": "Deranged",
+    "modifiers": {
+      "damage": 0.9,
+      "knockback": 0.9,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 32,
+    "name": "Intense",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1.15,
+      "crit": 0
+    }
+  },
+  {
+    "id": 33,
+    "name": "Taboo",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1.1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1.1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 34,
+    "name": "Celestial",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1.1,
+      "speed": 1.1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.9,
+      "crit": 0
+    }
+  },
+  {
+    "id": 35,
+    "name": "Furious",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1.2,
+      "crit": 0
+    }
+  },
+  {
+    "id": 36,
+    "name": "Keen",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 3
+    }
+  },
+  {
+    "id": 37,
+    "name": "Superior",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1.1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 3
+    }
+  },
+  {
+    "id": 38,
+    "name": "Forceful",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 39,
+    "name": "Broken",
+    "modifiers": {
+      "damage": 0.7,
+      "knockback": 0.8,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 40,
+    "name": "Damaged",
+    "modifiers": {
+      "damage": 0.85,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 41,
+    "name": "Shoddy",
+    "modifiers": {
+      "damage": 0.9,
+      "knockback": 0.85,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 42,
+    "name": "Quick",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 43,
+    "name": "Deadly2",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 44,
+    "name": "Agile",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 3
+    }
+  },
+  {
+    "id": 45,
+    "name": "Nimble",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 0.95,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 46,
+    "name": "Murderous",
+    "modifiers": {
+      "damage": 1.07,
+      "knockback": 1,
+      "speed": 0.94,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 3
+    }
+  },
+  {
+    "id": 47,
+    "name": "Slow",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1.15,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 48,
+    "name": "Sluggish",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1.2,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 49,
+    "name": "Lazy",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1.08,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 50,
+    "name": "Annoying",
+    "modifiers": {
+      "damage": 0.8,
+      "knockback": 1,
+      "speed": 1.15,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 51,
+    "name": "Nasty",
+    "modifiers": {
+      "damage": 1.05,
+      "knockback": 0.9,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 2
+    }
+  },
+  {
+    "id": 52,
+    "name": "Manic",
+    "modifiers": {
+      "damage": 0.9,
+      "knockback": 1,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.9,
+      "crit": 0
+    }
+  },
+  {
+    "id": 53,
+    "name": "Hurtful",
+    "modifiers": {
+      "damage": 1.1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 54,
+    "name": "Strong",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 55,
+    "name": "Unpleasant",
+    "modifiers": {
+      "damage": 1.05,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 56,
+    "name": "Weak",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 0.8,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 57,
+    "name": "Ruthless",
+    "modifiers": {
+      "damage": 1.18,
+      "knockback": 0.9,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 58,
+    "name": "Frenzying",
+    "modifiers": {
+      "damage": 0.85,
+      "knockback": 1,
+      "speed": 0.85,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 59,
+    "name": "Godly",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.15,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 5
+    }
+  },
+  {
+    "id": 60,
+    "name": "Demonic",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 5
+    }
+  },
+  {
+    "id": 61,
+    "name": "Zealous",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 5
+    }
+  },
+  {
+    "id": 62,
+    "name": "Hard",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 63,
+    "name": "Guarding",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 64,
+    "name": "Armored",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 65,
+    "name": "Warding",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 66,
+    "name": "Arcane",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 67,
+    "name": "Precise",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 68,
+    "name": "Lucky",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 69,
+    "name": "Jagged",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 70,
+    "name": "Spiked",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 71,
+    "name": "Angry",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 72,
+    "name": "Menacing",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 73,
+    "name": "Brisk",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 74,
+    "name": "Fleeting",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 75,
+    "name": "Hasty2",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 76,
+    "name": "Quick2",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 77,
+    "name": "Wild",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 78,
+    "name": "Rash",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 79,
+    "name": "Intrepid",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 80,
+    "name": "Violent",
+    "modifiers": {
+      "damage": 1,
+      "knockback": 1,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 0
+    }
+  },
+  {
+    "id": 81,
+    "name": "Legendary",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.15,
+      "speed": 0.9,
+      "size": 1.1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 5
+    }
+  },
+  {
+    "id": 82,
+    "name": "Unreal",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.15,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1.1,
+      "manaCost": 1,
+      "crit": 5
+    }
+  },
+  {
+    "id": 83,
+    "name": "Mythical",
+    "modifiers": {
+      "damage": 1.15,
+      "knockback": 1.15,
+      "speed": 0.9,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 0.9,
+      "crit": 5
+    }
+  },
+  {
+    "id": 84,
+    "name": "Legendary2",
+    "modifiers": {
+      "damage": 1.17,
+      "knockback": 1.17,
+      "speed": 1,
+      "size": 1,
+      "shootSpeed": 1,
+      "manaCost": 1,
+      "crit": 8
+    }
+  }
+]
