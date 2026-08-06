@@ -3,182 +3,119 @@
     "id": 0,
     "key": "Birds",
     "name": "Any Bird",
-    "items": [
-      2015,
-      2016,
-      2017
-    ],
+    "items": [2015, 2016, 2017],
     "iconicItem": 2015
   },
   {
     "id": 1,
     "key": "Scorpions",
     "name": "Any Scorpion",
-    "items": [
-      2157,
-      2156
-    ],
+    "items": [2157, 2156],
     "iconicItem": 2157
   },
   {
     "id": 2,
     "key": "Squirrels",
     "name": "Any Squirrel",
-    "items": [
-      2018,
-      3563
-    ],
+    "items": [2018, 3563],
     "iconicItem": 2018
   },
   {
     "id": 3,
     "key": "Bugs",
     "name": "Any Jungle Bug",
-    "items": [
-      3194,
-      3192,
-      3193
-    ],
+    "items": [3194, 3192, 3193],
     "iconicItem": 3194
   },
   {
     "id": 4,
     "key": "Ducks",
     "name": "Any Duck",
-    "items": [
-      2123,
-      2122
-    ],
+    "items": [2123, 2122],
     "iconicItem": 2123
   },
   {
     "id": 5,
     "key": "Butterflies",
     "name": "Any Butterfly",
-    "items": [
-      1998,
-      2001,
-      1994,
-      1995,
-      1996,
-      1999,
-      1997,
-      2000
-    ],
+    "items": [1998, 2001, 1994, 1995, 1996, 1999, 1997, 2000],
     "iconicItem": 1998
   },
   {
     "id": 6,
     "key": "Fireflies",
     "name": "Any Firefly",
-    "items": [
-      1992,
-      2004
-    ],
+    "items": [1992, 2004],
     "iconicItem": 1992
   },
   {
     "id": 7,
     "key": "Snails",
     "name": "Any Snail",
-    "items": [
-      2006,
-      2007
-    ],
+    "items": [2006, 2007],
     "iconicItem": 2006
   },
   {
     "id": 8,
     "key": "Dragonflies",
     "name": "Any Dragonfly",
-    "items": [
-      4334,
-      4335,
-      4336,
-      4338,
-      4339,
-      4337
-    ],
+    "items": [4334, 4335, 4336, 4338, 4339, 4337],
     "iconicItem": 4334
   },
   {
     "id": 9,
     "key": "Turtles",
     "name": "Any Turtle",
-    "items": [
-      4464,
-      4465
-    ],
+    "items": [4464, 4465],
     "iconicItem": 4464
   },
   {
     "id": 10,
     "key": "Macaws",
     "name": "Any Macaw",
-    "items": [
-      5212,
-      5300
-    ],
+    "items": [5212, 5300],
     "iconicItem": 5212
   },
   {
     "id": 11,
     "key": "Cockatiels",
     "name": "Any Cockatiel",
-    "items": [
-      5312,
-      5313
-    ],
+    "items": [5312, 5313],
     "iconicItem": 5312
   },
   {
     "id": 12,
     "key": "Cloud Balloons",
     "name": "Any Cloud Ballooon",
-    "items": [
-      399,
-      1250
-    ],
+    "items": [399, 1250],
     "iconicItem": 399
   },
   {
     "id": 13,
     "key": "Blizzard Balloons",
     "name": "Any Blizzard Balloon",
-    "items": [
-      1163,
-      1251
-    ],
+    "items": [1163, 1251],
     "iconicItem": 1163
   },
   {
     "id": 14,
     "key": "Sandstorm Balloons",
     "name": "Any Sandstorm Balloon",
-    "items": [
-      983,
-      1252
-    ],
+    "items": [983, 1252],
     "iconicItem": 983
   },
   {
     "id": 15,
     "key": "Guide to Critter Companionship",
     "name": "Any Guide to Critter Companionship",
-    "items": [
-      4767,
-      5453
-    ],
+    "items": [4767, 5453],
     "iconicItem": 4767
   },
   {
     "id": 16,
     "key": "Guide to Nature Preservation",
     "name": "Any Guide to Environmental Preservation",
-    "items": [
-      5309,
-      5454
-    ],
+    "items": [5309, 5454],
     "iconicItem": 5309
   },
   {
@@ -186,25 +123,8 @@
     "key": "Fruit",
     "name": "Any Fruit",
     "items": [
-      4009,
-      4282,
-      4283,
-      4284,
-      4285,
-      4286,
-      4287,
-      4288,
-      4289,
-      4290,
-      4291,
-      4292,
-      4293,
-      4294,
-      4295,
-      4296,
-      4297,
-      5277,
-      5278
+      4009, 4282, 4283, 4284, 4285, 4286, 4287, 4288, 4289, 4290, 4291, 4292, 4293, 4294, 4295,
+      4296, 4297, 5277, 5278
     ],
     "iconicItem": 4009
   },
@@ -212,82 +132,42 @@
     "id": 18,
     "key": "Balloons",
     "name": "Any Balloon",
-    "items": [
-      3738,
-      3736,
-      3737
-    ],
+    "items": [3738, 3736, 3737],
     "iconicItem": 3738
   },
   {
     "id": 19,
     "key": "Wood",
     "name": "Any Wood",
-    "items": [
-      9,
-      619,
-      620,
-      621,
-      911,
-      1729,
-      2504,
-      2503,
-      5215
-    ],
+    "items": [9, 619, 620, 621, 911, 1729, 2504, 2503, 5215],
     "iconicItem": 9
   },
   {
     "id": 20,
     "key": "Sand",
     "name": "Any Sand Block",
-    "items": [
-      169,
-      408,
-      1246,
-      370,
-      3272,
-      3338,
-      3274,
-      3275
-    ],
+    "items": [169, 408, 1246, 370, 3272, 3338, 3274, 3275],
     "iconicItem": 169
   },
   {
     "id": 21,
     "key": "IronBar",
     "name": "Any Iron Bar",
-    "items": [
-      22,
-      704
-    ],
+    "items": [22, 704],
     "iconicItem": 22
   },
   {
     "id": 22,
     "key": "Fragment",
     "name": "Any Lunar Fragment",
-    "items": [
-      3458,
-      3456,
-      3457,
-      3459
-    ],
+    "items": [3458, 3456, 3457, 3459],
     "iconicItem": 3458
   },
   {
     "id": 23,
     "key": "PressurePlate",
     "name": "Any Pressure Plate",
-    "items": [
-      852,
-      543,
-      542,
-      541,
-      1151,
-      529,
-      853,
-      4261
-    ],
+    "items": [852, 543, 542, 541, 1151, 529, 853, 4261],
     "iconicItem": 852
   }
 ]
