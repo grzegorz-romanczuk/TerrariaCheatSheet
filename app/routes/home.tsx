@@ -1,19 +1,15 @@
 import { env } from 'cloudflare:workers';
 
 import type { Route } from './+types/home';
-import { Welcome } from '../welcome/welcome';
+import { Welcome } from '../pages/Welcome';
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: 'New React Router App' },
-    { name: 'description', content: 'Welcome to React Router!' },
+    { title: 'Terraria Cheat Sheet' },
+    { name: 'description', content: 'Welcome to cheet sheat for Terraria!' },
   ];
 }
 
-export function loader() {
-  return { message: env.VALUE_FROM_CLOUDFLARE };
-}
-
-export default function Home({ loaderData }: Route.ComponentProps) {
-  return <Welcome message={loaderData.message} />;
+export default function Home() {
+  return <Welcome />;
 }

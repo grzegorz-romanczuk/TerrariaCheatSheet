@@ -1,5 +1,9 @@
 {
   "files.associations": {
     "wrangler.json": "jsonc"
+  },
+  "css.validate": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": "explicit"
   }
 }
